@@ -4,5 +4,3 @@ numpy
 pymongo
 pymongo[srv]
 certifi
-
-#-e .
